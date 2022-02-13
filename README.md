@@ -33,6 +33,8 @@ Text File "File1.txt":
 
 
 Command Powershell prompt:
+![image](https://user-images.githubusercontent.com/94165326/153735965-b5b3e572-539f-4ba9-95c6-cd9de0914690.png)
+
 
 
 
