@@ -13,11 +13,11 @@ Anaconda - Python 3.7
 ### Step 6: In command prompt, initiate python followed by program name and text file name to get the output.
 
 ## PROGRAM:
-'''
+```
 python program for getting the word count from the contents of a file using command line arguments.
 Develpoed By: RAKSHITHA DEVI
 RegisterNumber:21005572
-'''
+```
 # in python file "program.py"
 ```
 import sys
@@ -28,6 +28,10 @@ print("The word count is",len(word))
 f1.close()
 ```
 ### OUTPUT:
+Text File "File1.txt":
+
+Command Powershell prompt:
+
 
 
 
