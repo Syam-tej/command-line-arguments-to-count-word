@@ -29,6 +29,8 @@ f1.close()
 ```
 ### OUTPUT:
 Text File "File1.txt":
+![image](https://user-images.githubusercontent.com/94165326/153735949-b6ccc239-3e9a-418a-9e35-08278d7fd1f9.png)
+
 
 Command Powershell prompt:
 
